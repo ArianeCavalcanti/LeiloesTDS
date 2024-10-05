@@ -4,10 +4,7 @@ import javax.swing.table.DefaultTableModel;
 
 
 
-/** Tela de Visualização de listagem
- *
- * @author Adm | Revisionado Ruberval Brasileiro
- */
+
 public class listagemVIEW extends javax.swing.JFrame {
 
     /**
